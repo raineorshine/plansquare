@@ -9,6 +9,11 @@ module.exports = (app) ->
         data: 
           events: [
             {
+              title: 'Mastering Life\'s Energies'
+              start: '6-5-13',
+              end: '6-8-13',
+              type: 'personal growth'
+            }, {
               title: 'NodeConf 2013'
               start: '6-27-13',
               end: '6-30-13',

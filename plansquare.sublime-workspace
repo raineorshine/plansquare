@@ -1,0 +1,637 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"getUser",
+				"getUserProvider"
+			],
+			[
+				"GOOGLE_C",
+				"GOOGLE_CLIENT_SECRET"
+			],
+			[
+				"GOOGLE_CLIENT",
+				"GOOGLE_CLIENT_ID"
+			],
+			[
+				"redire",
+				"redirectUrl"
+			],
+			[
+				"access",
+				"access_token"
+			],
+			[
+				"refr",
+				"refresh_token"
+			],
+			[
+				"go",
+				"google_id"
+			],
+			[
+				"bgo",
+				"bgOriginalHeight"
+			],
+			[
+				"bg",
+				"bgOriginalWidth"
+			],
+			[
+				"upda",
+				"updatePossibilities"
+			],
+			[
+				"up",
+				"updatePossibilities"
+			],
+			[
+				"possi",
+				"possibilities"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/app.coffee",
+			"settings":
+			{
+				"buffer_size": 654,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/controllers/index.coffee",
+			"settings":
+			{
+				"buffer_size": 927,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/controllers/controller-helper.coffee",
+			"settings":
+			{
+				"buffer_size": 320,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/scripts/src/views/index.coffee",
+			"settings":
+			{
+				"buffer_size": 1539,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/scripts/src/views/partials.coffee",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/raine/Google Drive/Web & Programming/Projects/plansquare/src/config.coffee",
+		"/Users/raine/Google Drive/Web & Programming/Projects/booksimpl/www/README.md",
+		"/Users/raine/Google Drive/Web & Programming/Projects/booksimpl/www/public/scripts/main.js",
+		"/Users/raine/Google Drive/Web & Programming/Projects/booksimpl/www/views/layout.jade",
+		"/Users/raine/Google Drive/Web & Programming/Projects/booksimpl/www/controllers/meetme.js",
+		"/Users/raine/Google Drive/Web & Programming/Projects/booksimpl/www/controllers/authentication.js",
+		"/Users/raine/Google Drive/Web & Programming/Projects/booksimpl/www/app.js",
+		"/Users/raine/Google Drive/Web & Programming/Projects/booksimpl/www/public/scripts/views/register.js",
+		"/Users/raine/Google Drive/Web & Programming/Projects/booksimpl/www/public/scripts/views/meet.js",
+		"/Users/raine/Google Drive/Web & Programming/Projects/booksimpl/www/public/scripts/views/partials.js",
+		"/Users/raine/Google Drive/Web & Programming/Projects/booksimpl/www/public/scripts/views/index.js",
+		"/Users/raine/Google Drive/Web & Programming/Projects/creatable/creatable.render.js",
+		"/Users/raine/Google Drive/Web & Programming/Projects/booksimpl/www/public/scripts/lib/creatable-backbone.js",
+		"/Users/raine/Google Drive/Web & Programming/Projects/booksimpl/www/public/scripts/lib/backbone-ext.js",
+		"/Users/raine/Google Drive/Web & Programming/Projects/booksimpl/www/public/scripts/lib/creatable.render.js",
+		"/Users/raine/Google Drive/Web & Programming/Projects/booksimpl/www/public/scripts/lib/creatable-array-ext.1.0.js",
+		"/Users/raine/Google Drive/Web & Programming/Projects/booksimpl/www/public/JsonTest/test-specifications.js",
+		"/Users/raine/Google Drive/Web & Programming/Projects/booksimpl/www/public/JsonTest/schemas/register.orderly",
+		"/Users/raine/Google Drive/Web & Programming/Projects/booksimpl/www/public/JsonTest/schemas/example.orderly",
+		"/Users/raine/Google Drive/Web & Programming/Projects/booksimpl/www/public/JsonTest/schemas/meetme-invalid-user.orderly",
+		"/Users/raine/Google Drive/Web & Programming/Projects/booksimpl/www/public/JsonTest/schemas/meetme.orderly",
+		"/Users/raine/Google Drive/Web & Programming/Projects/booksimpl/www/public/JsonTest/schemas/check-username.orderly",
+		"/Users/raine/Google Drive/Web & Programming/Projects/booksimpl/www/public/JsonTest/example.json",
+		"/Users/raine/Google Drive/Web & Programming/Projects/booksimpl/www/models/userprovider-mongodb.js",
+		"/Users/raine/Google Drive/Web & Programming/Projects/booksimpl/www/.env",
+		"/Users/raine/Google Drive/Web & Programming/Projects/rjs/rjs.js",
+		"/Users/raine/Google Drive/Web & Programming/Projects/booksimpl/www/controllers/register.js",
+		"/Users/raine/Google Drive/Web & Programming/Projects/rjs/README.md",
+		"/Users/raine/Google Drive/Web & Programming/Projects/booksimpl/www/package.json",
+		"/Users/raine/Google Drive/Web & Programming/Projects/rjs/package.json",
+		"/Users/raine/Google Drive/Web & Programming/Projects/booksimpl/www/node_modules/rjs/rjs.js",
+		"/Users/raine/Google Drive/Web & Programming/Projects/booksimpl/www/config.js",
+		"/Users/raine/Google Drive/Web & Programming/Projects/booksimpl/www/controllers/index.js",
+		"/Users/raine/Google Drive/Web & Programming/Projects/booksimpl/www/controllers/check-email.js",
+		"/Users/raine/Google Drive/Web & Programming/Projects/booksimpl/www/controllers/admin.js",
+		"/Users/raine/Google Drive/Web & Programming/Projects/booksimpl/www/controllers/check-username.js",
+		"/Users/raine/Google Drive/Web & Programming/Projects/booksimpl/www/controllers/logout.js",
+		"/Users/raine/Google Drive/Web & Programming/Projects/booksimpl/www/public/scripts/test.js",
+		"/Users/raine/Google Drive/Web & Programming/Projects/booksimpl/www/public/scripts/test.coffee",
+		"/Users/raine/Google Drive/Web & Programming/Projects/booksimpl/www/node_modules/google-calendar/GoogleCalendar.js",
+		"/Users/raine/Google Drive/Web & Programming/Projects/booksimpl/www/Procfile",
+		"/Users/raine/Google Drive/Web & Programming/Projects/booksimpl/www/creatable-ext.js",
+		"/Users/raine/Google Drive/Web & Programming/Projects/minimal-booking/www/node_modules/google-calendar/node_modules/google-oauth/node_modules/oauth/lib/oauth2.js",
+		"/Users/raine/Google Drive/Web & Programming/Projects/minimal-booking/www/node_modules/google-calendar/node_modules/google-oauth/GoogleOAuth.js",
+		"/Users/raine/Google Drive/Web & Programming/Projects/booksimpl/www/start.bash",
+		"/Users/raine/Google Drive/Language/Pali/Pali Primer/Revised/index.html",
+		"/Users/raine/Google Drive/Language/Pali/Pali Primer/Revised/main.styl",
+		"/Users/raine/Google Drive/Web & Programming/Projects/minimal-booking/www/node_modules/google-calendar/GoogleCalendar.js",
+		"/Users/raine/Google Drive/Web & Programming/Projects/minimal-booking/www/package.json",
+		"/Users/raine/Google Drive/Web & Programming/Projects/minimal-booking/www/models/userprovider-memory.js",
+		"/Users/raine/Google Drive/Web & Programming/Projects/minimal-booking/www/node_modules/google-calendar/node_modules/google-oauth/package.json",
+		"/Users/raine/Google Drive/Web & Programming/Projects/minimal-booking/www/node_modules/google-calendar/node_modules/google-oauth/README.md",
+		"/Users/raine/Google Drive/Web & Programming/Projects/minimal-booking/www/node_modules/google-calendar/package.json",
+		"/Users/raine/Google Drive/Web & Programming/Projects/minimal-booking/www/test",
+		"/Users/raine/Google Drive/Personal/Memory/Playing Card Memmap.csv",
+		"/Users/raine/Google Drive/Personal/Memory/export_svoo memory system.csv",
+		"/Users/raine/Downloads/Meditation is about developing a more genuine conn",
+		"/Users/raine/Google Drive/Travel/Cloud Atlas/Costa Rica/Informacion 1.txt",
+		"/Users/raine/Google Drive/Web & Programming/Projects/minimal-booking/www/public/style/main.styl",
+		"/Users/raine/Google Drive/Personal/Correspondence/Thank You Note - Jon",
+		"/Users/raine/Google Drive/Web & Programming/Projects/clarityofheart/www/style/main.styl",
+		"/Users/raine/Google Drive/Web & Programming/Projects/clarityofheart/www/index.html",
+		"/Users/raine/Google Drive/Web & Programming/Projects/clarityofheart/www/style/main.css",
+		"/Users/raine/Google Drive/Web & Programming/Projects/clarityofheart/www/scripts/app.coffee",
+		"/Users/raine/Google Drive/Web & Programming/Projects/minimal-booking/www/views/layout.jade",
+		"/Users/raine/Google Drive/Web & Programming/Projects/minimal-booking/www/public/scripts/lib/creatable-ext.js",
+		"/Users/raine/Google Drive/Web & Programming/Projects/minimal-booking/www/public/scripts/lib/jquery.livequery.js",
+		"/Users/raine/Google Drive/Web & Programming/Projects/minimal-booking/www/views/index.jade",
+		"/Users/raine/Google Drive/Web & Programming/Projects/minimal-booking/www/public/style/main.css",
+		"/Users/raine/Google Drive/Web & Programming/Projects/minimal-booking/www/views/meet.jade",
+		"/Users/raine/Google Drive/Web & Programming/Projects/minimal-booking/www/models/UserProvider.js",
+		"/Users/raine/Google Drive/Web & Programming/Projects/rjs/deploy/rjs.2.7.js",
+		"/Users/raine/Google Drive/Web & Programming/Projects/mindmapjournaling.com/www/normalize.css",
+		"/Users/raine/Google Drive/Career_Work/CollegeCoding/Clients/Svitlana Shmargunova/sumdigit.c",
+		"/Users/raine/Google Drive/Teaching/Technology/My Classes/DevU/Lecture Material/Resources/Resources.txt",
+		"/Users/raine/Google Drive/Career_Work/CollegeCoding/Clients/Kristina/class_person.py",
+		"/Users/raine/Google Drive/Career_Work/CollegeCoding/Clients/Svitlana Shmargunova/nestedfor.c",
+		"/Users/raine/Downloads/Canbus.cpp",
+		"/Users/raine/Google Drive/Web & Programming/Projects/collegecoding/craigslist.html",
+		"/Users/raine/Google Drive/Career_Work/CollegeCoding/Tutoring Session Log.md",
+		"/Users/raine/Google Drive/Career_Work/CollegeCoding/Time Log.md",
+		"/Users/raine/Google Drive/Career_Work/CollegeCoding/Clients/Svitlana Shmargunova/student-test2.c",
+		"/Users/raine/Google Drive/Career_Work/CollegeCoding/Clients/Svitlana Shmargunova/pointer-practice.c",
+		"/Users/raine/.ssh/config",
+		"/Users/raine/raine",
+		"/Users/raine/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/raine/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/raine/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/raine/Library/Application Support/Sublime Text 2/Packages/User/Default.sublime-keymap",
+		"/Users/raine/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/raine/Google Drive/Teaching/Tutoring/Clients/Svitlana Shmargunova/array 2",
+		"/Users/raine/Google Drive/Teaching/Tutoring/Clients/Svitlana Shmargunova/swap.c",
+		"/Users/raine/Google Drive/Teaching/Tutoring/Clients/Svitlana Shmargunova/array 2.c",
+		"/Users/raine/Google Drive/Teaching/Tutoring/Clients/Svitlana Shmargunova/array.c",
+		"/Users/raine/Google Drive/Web & Programming/Projects/collegecoding/webroot/exclude.html",
+		"/Users/raine/Google Drive/Web & Programming/Python/pacman/layouts/bigMaze.lay",
+		"/Users/raine/Google Drive/Teaching/Tutoring/Game Programming with C#/FirstGame/FirstGame/Program.cs",
+		"/Users/raine/Google Drive/Web & Programming/Projects/codingforacause/index.html",
+		"/Users/raine/Google Drive/Web & Programming/Scripts/twitter unsubscribe from email notifications.js",
+		"/Users/raine/Google Drive/Web & Programming/Projects/clarityofheart/www-original/index.html",
+		"/Users/raine/Google Drive/Web & Programming/Projects/clarityofheart/www/scripts/app.coffee.js",
+		"/Users/raine/Projects/workshop-start-to-finish/index.html",
+		"/Users/raine/Projects/workshop-start-to-finish/style.css",
+		"/Users/raine/Dropbox/Programming/Projects/rjs/deploy/rjs.2.7.js",
+		"/Users/raine/Projects/realhabits/web/index.html",
+		"/Users/raine/Dropbox/Britt-Annie/Products/Inventory.txt",
+		"/Users/raine/Dropbox/Web & Programming/Scripts/duolingo-location-search.js",
+		"/Users/raine/Google Drive/Teaching/Technology/Greenfoot, Alice, and other Research Notes.md",
+		"/Users/raine/Projects/accountabilitypal/web/css/style.css",
+		"/Users/raine/Projects/accountabilitypal/web/js/app.js",
+		"/Users/raine/Projects/code-and-see/web/js/app.js",
+		"/Users/raine/Projects/code-and-see/web/index.html",
+		"/Users/raine/Projects/code-and-see/web/css/style.css",
+		"/Users/raine/Projects/code-and-see/web/js/rjs.2.6-proto.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"data.",
+			"calendarslot",
+			"views",
+			"res.red",
+			"access_token",
+			"getgoogleacc",
+			"callback(",
+			"userprovider\\.",
+			"installprototypes",
+			"RJS",
+			"userprov",
+			"booking-url",
+			"book",
+			"\\.\\.",
+			"get",
+			"user.source",
+			"clientid",
+			"https",
+			"var goog",
+			"google_ca",
+			"callback_url",
+			"userProvider(",
+			"this.db",
+			"3000",
+			"kame",
+			"findby",
+			"name",
+			"userprovider",
+			"send",
+			"getgoogleaccesstoken",
+			"getoauthaccess",
+			"getoauthaccesstoken",
+			"code",
+			"authorization",
+			"minim",
+			"mnm",
+			"sessionsecret",
+			"find()",
+			"meet",
+			"@",
+			"source",
+			"picture",
+			"helpertext",
+			"googleid",
+			"userprovider",
+			"userprovider(",
+			"if(",
+			"userprovider(",
+			"db",
+			"userprovider(",
+			"userprovider",
+			"node-mongo-blog",
+			"node",
+			"http",
+			"console.log",
+			"google_calendar",
+			"require",
+			"token",
+			"body",
+			"console",
+			"getOAuthAccessToken",
+			"getGoogleAccessToken",
+			"getgoogleac",
+			"revoke",
+			"&",
+			"consumer_key",
+			"=",
+			"&",
+			"console.log",
+			"invalid argument",
+			"scopes",
+			"getgoogleauthorize",
+			"params",
+			"getgoogleauthori",
+			"reditect",
+			"berr",
+			"refresh",
+			"reditectUrl",
+			"Meditation in Costa Rica\n",
+			"Hi,\n\nI read your profile and saw that you had an interest in meditation. I was wondering if you might be able to offer me some assistance. I just moved to Costa Rica and am looking for a meditation community to join. I have visited the Asociación Cultural Tibetano-Costarricense and am planning a visit to Casa Zen y Budismo Camino del Diamante. If you know of anything else, a young, active spiritual community, I would be so grateful for your recommendation. Thank you!\n\n-Raine",
+			"hellsp",
+			"kird",
+			"honor",
+			"frost t",
+			",.*,",
+			",",
+			"\\t",
+			"\\t0(.*)",
+			" class=\"cf\"",
+			"dd",
+			"dt",
+			"#",
+			"balloonsize",
+			"line-height",
+			"fff",
+			"000",
+			"yellow",
+			"strong",
+			"title",
+			"section",
+			"heading",
+			";",
+			"\\: ",
+			"\\}\\n",
+			"}\\n",
+			" {",
+			"access_token",
+			"comment",
+			"article",
+			"ArticleProvider",
+			"sign up",
+			"helpertext",
+			"render('",
+			"index",
+			"layout",
+			"container",
+			"req\\.",
+			"send",
+			"dummydata",
+			"article",
+			"ArticleProvider",
+			"### ",
+			"#### ",
+			"# ",
+			"## ",
+			" = function\\(([^\\)]*)\\).*",
+			" = function\\(([^\\]]*\\)).*",
+			" */"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" = ",
+			"\n = \n = \n = \n = \n = ",
+			"\n",
+			"redirect",
+			",",
+			" (0\\1)",
+			"",
+			"td",
+			"tc",
+			"",
+			" ",
+			"",
+			"user",
+			"UserProvider",
+			"user",
+			"UserProvider",
+			"// ",
+			"### ",
+			"## ",
+			"### ",
+			"###",
+			"(\\1)",
+			"",
+			"\\1",
+			"## ",
+			"",
+			"9-12:30pm",
+			"Free before 2pm",
+			"9-5pm",
+			"$1",
+			"{1}",
+			"\\0",
+			"0.jpeg",
+			"-400.jpg",
+			"line"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/app.coffee",
+					"settings":
+					{
+						"buffer_size": 654,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CoffeeScript/Syntaxes/CoffeeScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/controllers/index.coffee",
+					"settings":
+					{
+						"buffer_size": 927,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CoffeeScript/Syntaxes/CoffeeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/controllers/controller-helper.coffee",
+					"settings":
+					{
+						"buffer_size": 320,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CoffeeScript/Syntaxes/CoffeeScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "public/scripts/src/views/index.coffee",
+					"settings":
+					{
+						"buffer_size": 1539,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CoffeeScript/Syntaxes/CoffeeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "public/scripts/src/views/partials.coffee",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CoffeeScript/Syntaxes/CoffeeScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

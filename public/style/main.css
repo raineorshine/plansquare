@@ -62,7 +62,6 @@ margin-bottom 80px,
   position: relative;
   width: 7.2%;
   height: 92px;
-  border: solid 1px #fff;
   display: inline-block;
   margin-right: 1%;
 }
@@ -77,15 +76,13 @@ margin-bottom 80px,
 }
 .event .details {
   position: absolute;
+  white-space: nowrap;
   top: 120px;
   display: none;
   line-height: 1.5em;
 }
 .event:hover .details {
   display: block;
-}
-heading {
-  margin-top: 40px;
 }
 #owner {
   float: left;
@@ -94,4 +91,12 @@ heading {
 #year {
   line-height: 50px;
   float: right;
+}
+.event-type-tech {
+  color: #d1e751;
+  background-color: #d1e751;
+}
+.event-type-meditation {
+  color: #4dbce9;
+  background-color: #4dbce9;
 }

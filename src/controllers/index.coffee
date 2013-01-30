@@ -1,36 +1,22 @@
+Db = require('mongodb').Db
+async = require('async')
+
 render = require('./controller-helper.js').render
 module.exports = (app) ->
 
   app.get '/', (req, res) ->
-    viewData =
-      title: 'PLANSQUARE'
-      bootstrap:
-        view: 'index'
-        data: 
-          events: [
-            {
-              title: 'Mastering Life\'s Energies'
-              start: '6-5-13',
-              end: '6-8-13',
-              type: 'personal growth'
-            }, {
-              title: 'NodeConf 2013'
-              start: '6-27-13',
-              end: '6-30-13',
-              type: 'coding'
-            },
-            {
-              title: 'Enlightened Society Assembly'
-              start: '7-6-13',
-              end: '7-21-13',
-              type: 'meditation'
-            },
-            {
-              title: 'Buddhist Geeks 2013'
-              start: '8-16-13',
-              end: '8-18-13',
-              type: 'meditation'
-            }
-          ]
 
-    render req, res, viewData
+    async.waterfall [
+      (cb) -> Db.connect(process.env.MONGOLAB_URI, cb),
+      (db, cb) -> db.collection('events', cb),
+      (coll, cb) -> coll.find().toArray(cb)
+      (events) -> 
+        viewData =
+          title: 'PLANSQUARE'
+          bootstrap:
+            view: 'index'
+            data: 
+              events: events
+
+        render req, res, viewData
+    ]

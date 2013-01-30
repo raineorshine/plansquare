@@ -1,7 +1,8 @@
 /******************************
  * Color Definitions
  ******************************/
-
+limey = #D1E751
+electric_blue = #4DBCE9
 
 /******************************
  * Fonts
@@ -76,7 +77,6 @@ a
   position relative
   width 7.2%
   height 92px
-  border solid 1px white
   display inline-block
   margin-right 1.0%
 
@@ -90,17 +90,23 @@ a
   background-color white
   .details
     position absolute
+    white-space nowrap
     top 120px
     display none
     line-height 1.5em
   &:hover .details
     display block
 
-heading
-  margin-top 40px
 #owner
   float left
   line-height 0
 #year 
   line-height 50px
   float right
+
+.event-type-tech
+  color limey
+  background-color limey
+.event-type-meditation
+  color electric_blue
+  background-color electric_blue

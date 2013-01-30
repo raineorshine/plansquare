@@ -51,14 +51,16 @@
 
   client.partials.Event = Backbone.View.extend({
     build: function() {
-      var endDate, endOfMonth, left, startDate, width;
+      var endDate, endOfMonth, left, startDate, typeClass, width;
       startDate = Date.parse(this.model.get('start'));
       endDate = Date.parse(this.model.get('end'));
       endOfMonth = startDate.clone().moveToLastDayOfMonth();
-      left = startDate.getDate() / endOfMonth.getDate() * 100;
-      width = (endDate.getDate() - startDate.getDate()) / endOfMonth.getDate() * 100;
+      left = (startDate.getDate() - 1) / endOfMonth.getDate() * 100;
+      width = (endDate.getDate() - (startDate.getDate() - 1)) / endOfMonth.getDate() * 100;
+      typeClass = this.model.get('type').toLowerCase().replace(' ', '-');
       return [
         '.event', {
+          'class': 'event-type-' + typeClass,
           style: 'margin-left: {0}%; width: {1}%'.supplant([left, width])
         }, [['.details', [['.title', this.model.get('title')], ['.date', '{0} to {1}'.supplant([this.model.get('start'), this.model.get('end')])]]]]
       ];
